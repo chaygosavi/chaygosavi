@@ -9,7 +9,7 @@ A graduate with passion for developing scalable web applications and working acr
 * 🌍  I'm based in Pune, Maharashtra
 * ✉️  You can contact me at [chaitanyamgosavi@gmail.com](mailto:chaitanyamgosavi@gmail.com)
 * 🧠  I'm learning Advanced React
-* 🤝  I'm open to collaborating on Web dev projects
+* 🤝  I'm open to collaborating on Web Dev Projects
 
 ### Skills
 
