@@ -1,7 +1,7 @@
 Hi 👋 My name is Chaitanya Gosavi
 =================================
 
-Full Stack Developer { MERN }
+Frontend Developer
 -----------------------------
 
 A graduate with passion for developing scalable web applications and working across the full stack.
