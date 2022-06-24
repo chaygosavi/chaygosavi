@@ -4,7 +4,7 @@ Hi 👋 My name is Chaitanya Gosavi
 Frontend Developer ⚛️
 -----------------------------
 
-A graduate with passion for developing frontend for scalable web applications.
+A developer with passion for developing frontend for scalable web applications.
 
 * 🌍  I'm based in Pune, Maharashtra
 * ✉️  You can contact me at [chaitanyamgosavi@gmail.com](mailto:chaitanyamgosavi@gmail.com)
