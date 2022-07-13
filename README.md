@@ -1,4 +1,4 @@
-नमस्कार 🙏 My name is Chaitanya Gosavi
+नमस्कार 🙏 Chaitanya Gosavi here,
 =================================
 
 Frontend Developer ⚛️
