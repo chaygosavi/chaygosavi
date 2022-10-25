@@ -9,7 +9,7 @@ A developer with passion for developing frontend for scalable web applications.
 * 🌍  I'm based in Pune, Maharashtra
 * ✉️  You can contact me at [chaitanyamgosavi@gmail.com](mailto:chaitanyamgosavi@gmail.com)
 * 🧠  I'm learning Advanced Node Js
-* 🤝  I'm open to collaborating on Fullstack web dev Projects
+* 🤝  I'm open to collaborating on Fullstack Projects
 
 ### Skills
 
