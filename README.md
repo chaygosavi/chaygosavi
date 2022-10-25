@@ -1,7 +1,7 @@
 नमस्कार 🙏 Chaitanya Gosavi here,
 =================================
 
-Fullstack Developer (React and React Native)
+MERN Developer (React and React Native)
 -----------------------------
 
 A developer with passion for developing fullstack web and mobile applications.
