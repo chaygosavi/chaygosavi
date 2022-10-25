@@ -1,15 +1,15 @@
 नमस्कार 🙏 Chaitanya Gosavi here,
 =================================
 
-Frontend Developer ⚛️
+Fullstack Developer (React and React Native)
 -----------------------------
 
 A developer with passion for developing frontend for scalable web applications.
 
 * 🌍  I'm based in Pune, Maharashtra
 * ✉️  You can contact me at [chaitanyamgosavi@gmail.com](mailto:chaitanyamgosavi@gmail.com)
-* 🧠  I'm learning Advanced React
-* 🤝  I'm open to collaborating on Web Dev Projects
+* 🧠  I'm learning Advanced Node Js
+* 🤝  I'm open to collaborating on Fullstack web dev Projects
 
 ### Skills
 
