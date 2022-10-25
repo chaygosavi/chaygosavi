@@ -4,7 +4,7 @@
 Fullstack Developer (React and React Native)
 -----------------------------
 
-A developer with passion for developing frontend for scalable web applications.
+A developer with passion for developing fullstack web and mobile applications.
 
 * 🌍  I'm based in Pune, Maharashtra
 * ✉️  You can contact me at [chaitanyamgosavi@gmail.com](mailto:chaitanyamgosavi@gmail.com)
