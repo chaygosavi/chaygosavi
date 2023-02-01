@@ -4,7 +4,7 @@
 FullStack Developer
 -----------------------------
 
-A developer with passion for developing fullstack web and mobile applications.
+A developer with passion for developing fullstack web and cross-platform mobile applications.
 
 * 🌍  I'm based in Pune, Maharashtra
 * ✉️  You can contact me at [chaitanyamgosavi@gmail.com](mailto:chaitanyamgosavi@gmail.com)
